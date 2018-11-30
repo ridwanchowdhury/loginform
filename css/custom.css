@@ -1,0 +1,26 @@
+
+<link href="https://fonts.googleapis.com/css?family=Ranga" rel="stylesheet"> 
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{font-family: 'Ranga', cursive;margin: 0;padding: 0;background-image: url(../images/mountains.jpg);min-height: 100vh;background-position: ;background-repeat: no-repeat;max-width: 100%;background-size: cover;position: relative;}
+section{/*! background-image: url(../images/mountains.jpg); */ /*! min-height: 100vh; *//*! background-position: ; */background-repeat: no-repeat;/*! max-width: 100%; */background-size: cover;position: relative;background: #fff;position: absolute;top: 50%;left: 50%;/*! transition: ; */transform: translate(-50%, -50%);padding: 15px;box-shadow: 0 0 50px #633f3f;background: aqua;}
+.fullbox{/*! margin: 0; *//*! padding: 0; *//*! background-position: ; */position: absolute;/*! margin: 18px; */padding: 30px;}
+div{}
+.logintext{text-align: center;text-transform: uppercase;padding: 10px;}
+.logintext p{}
+.logintext {}
+.fullbox form{}
+.fullbox form input{width: 100%;margin: 2px 6px 9px 0;/*! height: 26px; */}
+.login{/*! padding: 15px; */box-shadow: 0 0 4px #333;/*! padding-right: 171px; */max-width: 100%;/*! margin: 67px; */background: blue;/*! text: 48px; *//*! text-decoration-color: #fff; */color: #fff;/*! size: 25px; */text-transform: uppercase;text-align: center;text-shadow: blueviolet;/*! font-size: 17px; */font-size: 20px;/*! padding: 4px; */padding: 10px 0 10px 0;font-weight: 900;letter-spacing: 2px;}
+.fullbox ul {/*! display: inline-block; *//*! float: left; *//*! width: auto; */}
+.fullbox ul li{/*! float: left; *//*! width: auto; */display: inline;}
+.fullbox ul li input{display: inline-block;/*! float: left; */width: auto;/*! text-decoration: antiquewhite; */}
+.fullbox ul li input span{}
+span{/*! width: auto; *//*! float: left; *//*! margin-right: 10px; *//*! padding-right: 29px; */margin-right: 0px;overflow: hidden;/*! float: right; */}
+.fullbox ul li a{/*! float: left; */text-align: right;color: #aba3a1;margin-left: 95px;}
+.fullbox p{margin: 0;text-align: center;}
+
+
